@@ -20,7 +20,7 @@
     'price': 49.99,
     'currency': 'USD',
     'contributors': ['Jainil Joshi'],
-    'license': 'AGPL-3',
+    'license': 'OPL-3',
     'depends': ['web_enterprise'],
     'data': [
         'views/res_config_settings.xml',
