@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Horizontal Custom Menu',
-    'version': '18.0',
+    'version': '19.0.1',
     'summary': 'Custom horizontal and categorized menu enhancements for Odoo 18.',
     'description': """
     This module combines functionalities from multiple RCL menu customization modules:
@@ -20,7 +20,7 @@
     'price': 49.99,
     'currency': 'USD',
     'contributors': ['Jainil Joshi'],
-    'license': 'LGPL-3',
+    'license': 'AGPL-3',
     'depends': ['web_enterprise'],
     'data': [
         'views/res_config_settings.xml',
